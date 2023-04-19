@@ -4,4 +4,5 @@
 The dataset for the project has been downloaded from the UCI Machine Learning Repository.
 
 | Number of Instances:	| 245057 |
+| --- | --- |
 | Number of Attributes: |	4 |
